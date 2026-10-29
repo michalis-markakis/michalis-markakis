@@ -1,8 +1,10 @@
 ## Michalis Markakis
 
-Dev Lead in Athens, Greece, carrying Engineering Manager scope. Thirteen years in backend engineering, the last four leading teams. I still write code, because I don't think you make good technical calls from a distance.
+Dev Lead in Athens, Greece, with 14 years in software, five of them leading distributed engineering teams across Greece, Europe and India. I line-manage engineers, coach them up to Dev Lead and Principal Engineer roles, and stay hands-on: I triage and fix tickets, write scripts and build side projects.
 
-At OpenBet I've led backend product delivery, run enterprise release engineering, and currently lead a 10-engineer Automation & Delivery team. Along the way: a US market launch, a backend team turned around inside twelve months, and release preparation cut from 10 days and 4 engineers to 3 days and 1.
+At OpenBet (2016 to 2026) I led an eight-person Automation & Delivery team across India and Europe and ran customer upgrades end to end, cutting backend preparation per upgrade from 10 days (4 engineers plus a lead) to 3 days (1 engineer plus a lead). Before that I led two concurrent Scrum teams of nine on the OPAP sportsbook replacement, which went live in March 2023. I also rolled out AI-assisted code review at management's direction.
+
+Open to Dev Lead, Tech Lead and Engineering Manager roles: remote, hybrid in Athens, or relocation.
 
 ### What I'm building
 
@@ -12,6 +14,6 @@ The plumbing isn't the interesting part. Deciding which source to trust for whic
 
 ### Working with
 
-Python · Java · FastAPI · PostgreSQL · Cassandra · Kubernetes · AWS · Grafana
+Java · Spring Boot · TCL · Python · FastAPI · Kafka · Cassandra · PostgreSQL · Docker · Kubernetes · AWS · Grafana · Jenkins
 
-[LinkedIn](https://www.linkedin.com/in/michail-markakis)
+[LinkedIn](https://www.linkedin.com/in/michalis-markakis)
